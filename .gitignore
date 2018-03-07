@@ -3,3 +3,4 @@
 *.pyc
 notebooks/*.ipynb_checkpoints
 *.zip
+notebooks/saved_gensim_model/*
